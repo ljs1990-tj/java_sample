@@ -1,4 +1,4 @@
-package F_반복문;
+package E_반복문;
 
 /**
  * [Scanner 클래스 학습 예제]
