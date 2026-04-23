@@ -1,4 +1,4 @@
-package C_반복문;
+package F_반복문;
 
 public class A {
 
